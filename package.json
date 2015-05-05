@@ -1,0 +1,11 @@
+{
+  "name": "kalite-video-indexer",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node indexer.js"
+  },
+  "dependencies": {
+    "traverse": "~0.6.6"
+  }
+}
